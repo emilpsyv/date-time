@@ -44,7 +44,7 @@ namespace person_exam
             Console.WriteLine("2 saatdan uzun");
             exams.FindAll(s => s.ExamDuration > 120).ForEach(s => Console.WriteLine(s.Subject + " " + s.ExamDuration));
             Console.WriteLine("basliyib bitmeyen");
-            exams.FindAll(s=>dateTime>=s.StartDate && dateTime<s.EndDate).ForEach(s => Console.WriteLine(s.Subject));
+            exams.FindAll(s=>dateTime>=s.StartDate && dateTime<s.EndDate).ForEach(s => Console.WriteLine(s.Subject+" "+s.ExamDuration));
 
             
 
