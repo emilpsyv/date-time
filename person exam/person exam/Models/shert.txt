@@ -1,0 +1,26 @@
+﻿1.Person class-ınız olur. Name, Surname, Age propertyləri olur.
+Program.cs de:
+People List-i yaradırsınız. FindAll methodu ilə aşağıdakı sorğuları yazın :
+a. Adı Kamil(her hansisa bir ad) olan person-u çıxarsın.
+b. Soyadı ov ve ova ilə bitən tələbələri çıxarsın.
+c. Yaşı 20+ olanları çıxarsın
+
+
+2.
+Exam class
+ 
+ - string Subject
+ -int ExamDuration    (nece saat devam edir onu gosterir)
+ -DateTime StartDate           (DateTime ile dinamik teyin olunur)
+ - DateTime EndDate             (DateTime ile dinamik teyin olunur Startin ustune durationu gelirsiz)
+ -Start() methodu ishe dushduyu an StartDate-e hal hazirdaki tarix menimsenmelidir
+
+Program.cs:
+exams Listi yaradirsiz.
+Bir nece exam yaradib daxil etdikden sonra console-da asagidaki siyahilari gosterirsiniz
+- son 1 hefte erzinde olan  examlarin siyahisini gosterirsiniz
+- 2 saatdan uzun ceken imtahanlarin siyahisi
+- bashlayib amma bitmemish(hal-hazirda devam eden) imtahanlarin siyahisi
+
+Siyahilari gosterende asagidaki datalari gosterirsiniz her bir siyahi ucun
+ - Subject, Duration

@@ -1,0 +1,14 @@
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\bin\Debug\net6.0\person exam.exe
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\bin\Debug\net6.0\person exam.deps.json
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\bin\Debug\net6.0\person exam.runtimeconfig.json
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\bin\Debug\net6.0\person exam.dll
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\bin\Debug\net6.0\person exam.pdb
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.AssemblyInfoInputs.cache
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.AssemblyInfo.cs
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.dll
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\refint\person exam.dll
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.pdb
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\person exam.genruntimeconfig.cache
+C:\Users\Emil\Desktop\code academy task\task 21\person exam\person exam\obj\Debug\net6.0\ref\person exam.dll
